@@ -119,6 +119,12 @@
 			<version>${mule.version}</version>
 			<scope>test</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.mule.extensions/mule-extensions-api -->
+<dependency>
+    <groupId>org.mule.extensions</groupId>
+    <artifactId>mule-extensions-api</artifactId>
+    <version>1.0.0-alpha-1</version>
+</dependency>
 	</dependencies>
 
 	<repositories>
