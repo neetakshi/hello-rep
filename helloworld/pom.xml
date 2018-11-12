@@ -125,6 +125,20 @@
     <artifactId>mule-extensions-api</artifactId>
     <version>1.0.0-alpha-1</version>
 </dependency>
+		<!-- https://mvnrepository.com/artifact/org.mule.common/mule-common -->
+<dependency>
+    <groupId>org.mule.common</groupId>
+    <artifactId>mule-common</artifactId>
+    <version>3.9.0</version>
+    <scope>provided</scope>
+</dependency>
+		
+     <dependency> 
+       <groupId>org.mule.modules</groupId> 
+<artifactId>mule-module-scripting</artifactId> 
+       <version>3.9.0</version> 
+       <scope>provided</scope> 
+   
 	</dependencies>
 
 	<repositories>
