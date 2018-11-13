@@ -100,12 +100,12 @@
 			<scope>provided</scope>
 		</dependency>
 		<!-- Mule Modules -->
-		<dependency>
+<!-- 		<dependency>
 			<groupId>org.mule.modules</groupId>
 			<artifactId>mule-module-scripting</artifactId>
 			<version>${mule.version}</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>org.mule.modules</groupId>
 			<artifactId>mule-module-xml</artifactId>
@@ -120,19 +120,19 @@
 			<scope>test</scope>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.mule.extensions/mule-extensions-api -->
-		<dependency>
+<!-- 		<dependency>
 			<groupId>org.mule.extensions</groupId>
 			<artifactId>mule-extensions-api</artifactId>
 			<version>1.0.0-alpha-1</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency> -->
 		<!-- https://mvnrepository.com/artifact/org.mule.common/mule-common -->
-		<dependency>
+<!-- 		<dependency>
 			<groupId>org.mule.common</groupId>
 			<artifactId>mule-common</artifactId>
 			<version>3.9.0</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency> -->
 
 
 		<dependency>
@@ -154,19 +154,19 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-		<dependency>
+<!-- 		<dependency>
 			<groupId>javax.jms</groupId>
 			<artifactId>jms</artifactId>
 			<version>1.1</version>
-		</dependency>
+		</dependency> -->
 		<!-- https://mvnrepository.com/artifact/javax.xml.xquery/xqj-api -->
-		<dependency>
+<!-- 		<dependency>
 			<groupId>javax.xml.xquery</groupId>
 			<artifactId>xqj-api</artifactId>
 			<version>1.0</version>
 			<scope>provided</scope>
-		</dependency>
-		<dependency>
+		</dependency> -->
+<!-- 		<dependency>
 			<groupId>stax-utils</groupId>
 			<artifactId>stax-utils</artifactId>
 			<version>20080702</version>
@@ -180,7 +180,7 @@
 			<artifactId>mule-extensions-annotations</artifactId>
 			<version>1.0.0-alpha-1</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency> -->
 
 	</dependencies>
 
