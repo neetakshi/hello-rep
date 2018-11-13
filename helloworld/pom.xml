@@ -163,6 +163,13 @@
       <artifactId>jms</artifactId>
       <version>1.1</version>
     </dependency>
+		<!-- https://mvnrepository.com/artifact/javax.xml.xquery/xqj-api -->
+<dependency>
+    <groupId>javax.xml.xquery</groupId>
+    <artifactId>xqj-api</artifactId>
+    <version>1.0</version>
+</dependency>
+
 	</dependencies>
 
 	<repositories>
